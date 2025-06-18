@@ -1,6 +1,6 @@
-# 🤖 Platini – Bot de gestión de gastos personales
+# 💸 Platini 💸
 
-![Platini Bot](/Platini.jpg)
+![Platini Bot](/Logo_resized.png)
 
 > **Platini** es un bot inteligente de Telegram desarrollado en Python, diseñado para ayudarte a **gestionar tus finanzas personales**, registrar gastos automáticamente, analizar patrones de consumo, generar alertas, y mucho más.
 
@@ -105,5 +105,5 @@ MIT © 2025 Natalia – Proyecto personal para automatizar la gestión financier
 
 ## 📬 Contacto
 
-Si tenés sugerencias o querés sumarte:
-🕊️ [@platini\_bot](https://t.me/natigastabot)
+Abrir bot:
+💸 [@platini\_bot](https://t.me/natigastabot)
